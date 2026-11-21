@@ -4,7 +4,7 @@ Sight is an AI-powered investing app designed to make market research, stock ana
 
 Sight combines live market data, technical indicators, advanced charts, AI-generated analysis, brokerage connectivity, trade journaling, and subscription management into a single mobile experience.
 
-Built as a student project for the Eureka Dev Hackathon.
+Built as a student project for the Hackathon.
 
 ## Features
 
